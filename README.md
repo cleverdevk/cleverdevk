@@ -1,4 +1,4 @@
-### Hi there 👋
+### cleverdevk 👋
 
 <!--
 **cleverdevk/cleverdevk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
+  
+  [![Github](http://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/cleverdevk/)](https://github.com/cleverdevk/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-kang-7a7845178/)](https://www.linkedin.com/in/nick-kang-7a7845178/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleverdevk@gmail.com)](mailto:cleverdevk@gmail.com)
+
+</div>
